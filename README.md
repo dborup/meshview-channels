@@ -1,4 +1,4 @@
-# meshview.dk — kendte MeshCore-kanaler
+# meshview.dk - kendte MeshCore-kanaler
 
 Katalog over kendte danske MeshCore-kanaler, vedligeholdt af [meshview.dk](https://meshview.dk).
 
