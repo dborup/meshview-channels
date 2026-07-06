@@ -1,0 +1,779 @@
+{
+  "generated_at": "2026-07-06T13:33:16Z",
+  "license": "CC0-1.0",
+  "countryNames": {
+    "dk": "Danmark"
+  },
+  "countries": {
+    "dk": [
+      {
+        "channel": "#aalborg",
+        "description": "Aalborg"
+      },
+      {
+        "channel": "#aarhus",
+        "description": "Aarhus og omegn"
+      },
+      {
+        "channel": "#danmark",
+        "description": "Danmark – landsdækkende"
+      },
+      {
+        "channel": "#dk",
+        "description": "Danmark – landsdækkende region"
+      },
+      {
+        "channel": "#dk-3kant",
+        "description": "Trekantområdet"
+      },
+      {
+        "channel": "#dk-aalborg",
+        "description": "Region Aalborg"
+      },
+      {
+        "channel": "#dk-aarhus",
+        "description": "Region Aarhus"
+      },
+      {
+        "channel": "#dk-anholt",
+        "description": "Anholt"
+      },
+      {
+        "channel": "#dk-bhm",
+        "description": "Region Bornholm"
+      },
+      {
+        "channel": "#dk-bornholm",
+        "description": "Region Bornholm"
+      },
+      {
+        "channel": "#dk-fyn",
+        "description": "Region Fyn"
+      },
+      {
+        "channel": "#dk-fyn-assens",
+        "description": "Region Fyn – Assens"
+      },
+      {
+        "channel": "#dk-fyn-bogense",
+        "description": "Region Fyn – Bogense"
+      },
+      {
+        "channel": "#dk-fyn-faaborg",
+        "description": "Region Fyn – Faaborg"
+      },
+      {
+        "channel": "#dk-fyn-kerteminde",
+        "description": "Region Fyn – Kerteminde"
+      },
+      {
+        "channel": "#dk-fyn-middelfart",
+        "description": "Region Fyn – Middelfart"
+      },
+      {
+        "channel": "#dk-fyn-nyborg",
+        "description": "Region Fyn – Nyborg"
+      },
+      {
+        "channel": "#dk-fyn-odense",
+        "description": "Region Fyn – Odense"
+      },
+      {
+        "channel": "#dk-fyn-ringe",
+        "description": "Region Fyn – Ringe"
+      },
+      {
+        "channel": "#dk-fyn-svendborg",
+        "description": "Region Fyn – Svendborg"
+      },
+      {
+        "channel": "#dk-horsens",
+        "description": "Region Horsens"
+      },
+      {
+        "channel": "#dk-horsens-test",
+        "description": "Region Horsens – test"
+      },
+      {
+        "channel": "#dk-laesoe",
+        "description": "Læsø"
+      },
+      {
+        "channel": "#dk-lo-da",
+        "description": "Lolland-Falster"
+      },
+      {
+        "channel": "#dk-lolland-falster",
+        "description": "Lolland-Falster"
+      },
+      {
+        "channel": "#dk-mdj",
+        "description": "Region Midtjylland"
+      },
+      {
+        "channel": "#dk-nj",
+        "description": "Region Nordjylland"
+      },
+      {
+        "channel": "#dk-nord",
+        "description": "Region Nord (Nordjylland)"
+      },
+      {
+        "channel": "#dk-nordsjaelland",
+        "description": "Region Nordsjælland"
+      },
+      {
+        "channel": "#dk-nrj",
+        "description": "Region Nordjylland"
+      },
+      {
+        "channel": "#dk-oj",
+        "description": "Region Østjylland"
+      },
+      {
+        "channel": "#dk-oj-aarhus",
+        "description": "Region Østjylland – Aarhus"
+      },
+      {
+        "channel": "#dk-samsoe",
+        "description": "Samsø"
+      },
+      {
+        "channel": "#dk-sdk",
+        "description": "Region Syddanmark"
+      },
+      {
+        "channel": "#dk-sjaelland",
+        "description": "Region Sjælland"
+      },
+      {
+        "channel": "#dk-sjl",
+        "description": "Region Sjælland"
+      },
+      {
+        "channel": "#dk-sms",
+        "description": "Samsø"
+      },
+      {
+        "channel": "#dk-trekantsomraadet",
+        "description": "Trekantområdet"
+      },
+      {
+        "channel": "#dk5",
+        "description": "Postnummer-serie 5xxx (Fyn)"
+      },
+      {
+        "channel": "#dk50",
+        "description": "Postnummer-serie 50xx (Fyn)"
+      },
+      {
+        "channel": "#dk500",
+        "description": "Postnummer-serie 500x (Fyn)"
+      },
+      {
+        "channel": "#dk5000",
+        "description": "Postnummer 5000 Odense C"
+      },
+      {
+        "channel": "#dk51",
+        "description": "Postnummer-serie 51xx (Fyn)"
+      },
+      {
+        "channel": "#dk52",
+        "description": "Postnummer-serie 52xx (Fyn)"
+      },
+      {
+        "channel": "#dk520",
+        "description": "Postnummer-serie 520x (Fyn)"
+      },
+      {
+        "channel": "#dk5200",
+        "description": "Postnummer 5200 Odense V"
+      },
+      {
+        "channel": "#dk521",
+        "description": "Postnummer-serie 521x (Fyn)"
+      },
+      {
+        "channel": "#dk5210",
+        "description": "Postnummer 5210 Odense NV"
+      },
+      {
+        "channel": "#dk522",
+        "description": "Postnummer-serie 522x (Fyn)"
+      },
+      {
+        "channel": "#dk5220",
+        "description": "Postnummer 5220 Odense SØ"
+      },
+      {
+        "channel": "#dk523",
+        "description": "Postnummer-serie 523x (Fyn)"
+      },
+      {
+        "channel": "#dk5230",
+        "description": "Postnummer 5230 Odense M"
+      },
+      {
+        "channel": "#dk524",
+        "description": "Postnummer-serie 524x (Fyn)"
+      },
+      {
+        "channel": "#dk5240",
+        "description": "Postnummer 5240 Odense NØ"
+      },
+      {
+        "channel": "#dk525",
+        "description": "Postnummer-serie 525x (Fyn)"
+      },
+      {
+        "channel": "#dk5250",
+        "description": "Postnummer 5250 Odense SV"
+      },
+      {
+        "channel": "#dk526",
+        "description": "Postnummer-serie 526x (Fyn)"
+      },
+      {
+        "channel": "#dk5260",
+        "description": "Postnummer 5260 Odense S"
+      },
+      {
+        "channel": "#dk527",
+        "description": "Postnummer-serie 527x (Fyn)"
+      },
+      {
+        "channel": "#dk5270",
+        "description": "Postnummer 5270 Odense N"
+      },
+      {
+        "channel": "#dk529",
+        "description": "Postnummer-serie 529x (Fyn)"
+      },
+      {
+        "channel": "#dk5290",
+        "description": "Postnummer 5290 Marslev"
+      },
+      {
+        "channel": "#dk53",
+        "description": "Postnummer-serie 53xx (Fyn)"
+      },
+      {
+        "channel": "#dk530",
+        "description": "Postnummer-serie 530x (Fyn)"
+      },
+      {
+        "channel": "#dk5300",
+        "description": "Postnummer 5300 Kerteminde"
+      },
+      {
+        "channel": "#dk533",
+        "description": "Postnummer-serie 533x (Fyn)"
+      },
+      {
+        "channel": "#dk5330",
+        "description": "Postnummer 5330 Munkebo"
+      },
+      {
+        "channel": "#dk535",
+        "description": "Postnummer-serie 535x (Fyn)"
+      },
+      {
+        "channel": "#dk5350",
+        "description": "Postnummer 5350 Rynkeby"
+      },
+      {
+        "channel": "#dk537",
+        "description": "Postnummer-serie 537x (Fyn)"
+      },
+      {
+        "channel": "#dk5370",
+        "description": "Postnummer 5370 Mesinge"
+      },
+      {
+        "channel": "#dk538",
+        "description": "Postnummer-serie 538x (Fyn)"
+      },
+      {
+        "channel": "#dk5380",
+        "description": "Postnummer 5380 Dalby"
+      },
+      {
+        "channel": "#dk539",
+        "description": "Postnummer-serie 539x (Fyn)"
+      },
+      {
+        "channel": "#dk5390",
+        "description": "Postnummer 5390 Martofte"
+      },
+      {
+        "channel": "#dk54",
+        "description": "Postnummer-serie 54xx (Fyn)"
+      },
+      {
+        "channel": "#dk540",
+        "description": "Postnummer-serie 540x (Fyn)"
+      },
+      {
+        "channel": "#dk5400",
+        "description": "Postnummer 5400 Bogense"
+      },
+      {
+        "channel": "#dk545",
+        "description": "Postnummer-serie 545x (Fyn)"
+      },
+      {
+        "channel": "#dk5450",
+        "description": "Postnummer 5450 Otterup"
+      },
+      {
+        "channel": "#dk546",
+        "description": "Postnummer-serie 546x (Fyn)"
+      },
+      {
+        "channel": "#dk5462",
+        "description": "Postnummer 5462 Morud"
+      },
+      {
+        "channel": "#dk5463",
+        "description": "Postnummer 5463 Harndrup"
+      },
+      {
+        "channel": "#dk5464",
+        "description": "Postnummer 5464 Brenderup Fyn"
+      },
+      {
+        "channel": "#dk5466",
+        "description": "Postnummer 5466 Asperup"
+      },
+      {
+        "channel": "#dk547",
+        "description": "Postnummer-serie 547x (Fyn)"
+      },
+      {
+        "channel": "#dk5471",
+        "description": "Postnummer 5471 Søndersø"
+      },
+      {
+        "channel": "#dk5474",
+        "description": "Postnummer 5474 Veflinge"
+      },
+      {
+        "channel": "#dk548",
+        "description": "Postnummer-serie 548x (Fyn)"
+      },
+      {
+        "channel": "#dk5485",
+        "description": "Postnummer 5485 Skamby"
+      },
+      {
+        "channel": "#dk549",
+        "description": "Postnummer-serie 549x (Fyn)"
+      },
+      {
+        "channel": "#dk5491",
+        "description": "Postnummer 5491 Blommenslyst"
+      },
+      {
+        "channel": "#dk5492",
+        "description": "Postnummer 5492 Vissenbjerg"
+      },
+      {
+        "channel": "#dk55",
+        "description": "Postnummer-serie 55xx (Fyn)"
+      },
+      {
+        "channel": "#dk550",
+        "description": "Postnummer-serie 550x (Fyn)"
+      },
+      {
+        "channel": "#dk5500",
+        "description": "Postnummer 5500 Middelfart"
+      },
+      {
+        "channel": "#dk554",
+        "description": "Postnummer-serie 554x (Fyn)"
+      },
+      {
+        "channel": "#dk5540",
+        "description": "Postnummer 5540 Ullerslev"
+      },
+      {
+        "channel": "#dk555",
+        "description": "Postnummer-serie 555x (Fyn)"
+      },
+      {
+        "channel": "#dk5550",
+        "description": "Postnummer 5550 Langeskov"
+      },
+      {
+        "channel": "#dk556",
+        "description": "Postnummer-serie 556x (Fyn)"
+      },
+      {
+        "channel": "#dk5560",
+        "description": "Postnummer 5560 Aarup"
+      },
+      {
+        "channel": "#dk558",
+        "description": "Postnummer-serie 558x (Fyn)"
+      },
+      {
+        "channel": "#dk5580",
+        "description": "Postnummer 5580 Nørre Aaby"
+      },
+      {
+        "channel": "#dk559",
+        "description": "Postnummer-serie 559x (Fyn)"
+      },
+      {
+        "channel": "#dk5591",
+        "description": "Postnummer 5591 Gelsted"
+      },
+      {
+        "channel": "#dk5592",
+        "description": "Postnummer 5592 Ejby"
+      },
+      {
+        "channel": "#dk56",
+        "description": "Postnummer-serie 56xx (Fyn)"
+      },
+      {
+        "channel": "#dk560",
+        "description": "Postnummer-serie 560x (Fyn)"
+      },
+      {
+        "channel": "#dk5600",
+        "description": "Postnummer 5600 Faaborg"
+      },
+      {
+        "channel": "#dk561",
+        "description": "Postnummer-serie 561x (Fyn)"
+      },
+      {
+        "channel": "#dk5610",
+        "description": "Postnummer 5610 Assens"
+      },
+      {
+        "channel": "#dk562",
+        "description": "Postnummer-serie 562x (Fyn)"
+      },
+      {
+        "channel": "#dk5620",
+        "description": "Postnummer 5620 Glamsbjerg"
+      },
+      {
+        "channel": "#dk563",
+        "description": "Postnummer-serie 563x (Fyn)"
+      },
+      {
+        "channel": "#dk5631",
+        "description": "Postnummer 5631 Ebberup"
+      },
+      {
+        "channel": "#dk564",
+        "description": "Postnummer-serie 564x (Fyn)"
+      },
+      {
+        "channel": "#dk5642",
+        "description": "Postnummer 5642 Millinge"
+      },
+      {
+        "channel": "#dk567",
+        "description": "Postnummer-serie 567x (Fyn)"
+      },
+      {
+        "channel": "#dk5672",
+        "description": "Postnummer 5672 Broby"
+      },
+      {
+        "channel": "#dk568",
+        "description": "Postnummer-serie 568x (Fyn)"
+      },
+      {
+        "channel": "#dk5683",
+        "description": "Postnummer 5683 Haarby"
+      },
+      {
+        "channel": "#dk569",
+        "description": "Postnummer-serie 569x (Fyn)"
+      },
+      {
+        "channel": "#dk5690",
+        "description": "Postnummer 5690 Tommerup"
+      },
+      {
+        "channel": "#dk57",
+        "description": "Postnummer-serie 57xx (Fyn)"
+      },
+      {
+        "channel": "#dk570",
+        "description": "Postnummer-serie 570x (Fyn)"
+      },
+      {
+        "channel": "#dk5700",
+        "description": "Postnummer 5700 Svendborg"
+      },
+      {
+        "channel": "#dk575",
+        "description": "Postnummer-serie 575x (Fyn)"
+      },
+      {
+        "channel": "#dk5750",
+        "description": "Postnummer 5750 Ringe"
+      },
+      {
+        "channel": "#dk576",
+        "description": "Postnummer-serie 576x (Fyn)"
+      },
+      {
+        "channel": "#dk5762",
+        "description": "Postnummer 5762 Vester Skerninge"
+      },
+      {
+        "channel": "#dk577",
+        "description": "Postnummer-serie 577x (Fyn)"
+      },
+      {
+        "channel": "#dk5771",
+        "description": "Postnummer 5771 Stenstrup"
+      },
+      {
+        "channel": "#dk5772",
+        "description": "Postnummer 5772 Kværndrup"
+      },
+      {
+        "channel": "#dk579",
+        "description": "Postnummer-serie 579x (Fyn)"
+      },
+      {
+        "channel": "#dk5792",
+        "description": "Postnummer 5792 Årslev"
+      },
+      {
+        "channel": "#dk58",
+        "description": "Postnummer-serie 58xx (Fyn)"
+      },
+      {
+        "channel": "#dk580",
+        "description": "Postnummer-serie 580x (Fyn)"
+      },
+      {
+        "channel": "#dk5800",
+        "description": "Postnummer 5800 Nyborg"
+      },
+      {
+        "channel": "#dk585",
+        "description": "Postnummer-serie 585x (Fyn)"
+      },
+      {
+        "channel": "#dk5853",
+        "description": "Postnummer 5853 Ørbæk"
+      },
+      {
+        "channel": "#dk5854",
+        "description": "Postnummer 5854 Gislev"
+      },
+      {
+        "channel": "#dk5856",
+        "description": "Postnummer 5856 Ryslinge"
+      },
+      {
+        "channel": "#dk586",
+        "description": "Postnummer-serie 586x (Fyn)"
+      },
+      {
+        "channel": "#dk5863",
+        "description": "Postnummer 5863 Ferritslev Fyn"
+      },
+      {
+        "channel": "#dk587",
+        "description": "Postnummer-serie 587x (Fyn)"
+      },
+      {
+        "channel": "#dk5871",
+        "description": "Postnummer 5871 Frørup"
+      },
+      {
+        "channel": "#dk5874",
+        "description": "Postnummer 5874 Hesselager"
+      },
+      {
+        "channel": "#dk588",
+        "description": "Postnummer-serie 588x (Fyn)"
+      },
+      {
+        "channel": "#dk5881",
+        "description": "Postnummer 5881 Skårup Fyn"
+      },
+      {
+        "channel": "#dk5882",
+        "description": "Postnummer 5882 Vejstrup"
+      },
+      {
+        "channel": "#dk5883",
+        "description": "Postnummer 5883 Oure"
+      },
+      {
+        "channel": "#dk5884",
+        "description": "Postnummer 5884 Gudme"
+      },
+      {
+        "channel": "#dk589",
+        "description": "Postnummer-serie 589x (Fyn)"
+      },
+      {
+        "channel": "#dk5892",
+        "description": "Postnummer 5892 Gudbjerg Sydfyn"
+      },
+      {
+        "channel": "#dk59",
+        "description": "Postnummer-serie 59xx (Fyn)"
+      },
+      {
+        "channel": "#dk590",
+        "description": "Postnummer-serie 590x (Fyn)"
+      },
+      {
+        "channel": "#dk5900",
+        "description": "Postnummer 5900 Rudkøbing"
+      },
+      {
+        "channel": "#dk593",
+        "description": "Postnummer-serie 593x (Fyn)"
+      },
+      {
+        "channel": "#dk5932",
+        "description": "Postnummer 5932 Humble"
+      },
+      {
+        "channel": "#dk5935",
+        "description": "Postnummer 5935 Bagenkop"
+      },
+      {
+        "channel": "#dk595",
+        "description": "Postnummer-serie 595x (Fyn)"
+      },
+      {
+        "channel": "#dk5953",
+        "description": "Postnummer 5953 Tranekær"
+      },
+      {
+        "channel": "#dk596",
+        "description": "Postnummer-serie 596x (Fyn)"
+      },
+      {
+        "channel": "#dk5960",
+        "description": "Postnummer 5960 Marstal"
+      },
+      {
+        "channel": "#dk597",
+        "description": "Postnummer-serie 597x (Fyn)"
+      },
+      {
+        "channel": "#dk5970",
+        "description": "Postnummer 5970 Ærøskøbing"
+      },
+      {
+        "channel": "#dk598",
+        "description": "Postnummer-serie 598x (Fyn)"
+      },
+      {
+        "channel": "#dk5985",
+        "description": "Postnummer 5985 Søby Ærø"
+      },
+      {
+        "channel": "#fredericia",
+        "description": "Fredericia"
+      },
+      {
+        "channel": "#fyn",
+        "description": "Fyn"
+      },
+      {
+        "channel": "#gilleleje",
+        "description": "Gilleleje"
+      },
+      {
+        "channel": "#hamradio",
+        "description": "Radioamatører"
+      },
+      {
+        "channel": "#hornslet",
+        "description": "Hornslet"
+      },
+      {
+        "channel": "#horsens",
+        "description": "Horsens"
+      },
+      {
+        "channel": "#jota",
+        "description": "JOTA/JOTI – spejdernes radioarrangement"
+      },
+      {
+        "channel": "#jylland",
+        "description": "Jylland"
+      },
+      {
+        "channel": "#kbh",
+        "description": "København"
+      },
+      {
+        "channel": "#kid",
+        "description": "kid"
+      },
+      {
+        "channel": "#lemvig",
+        "description": "Lemvig"
+      },
+      {
+        "channel": "#nordjylland",
+        "description": "Nordjylland"
+      },
+      {
+        "channel": "#nyheder",
+        "description": "Nyheder"
+      },
+      {
+        "channel": "#oestjylland",
+        "description": "Østjylland"
+      },
+      {
+        "channel": "#oresund",
+        "description": "Øresundsregionen"
+      },
+      {
+        "channel": "#ping",
+        "description": "Ping/test"
+      },
+      {
+        "channel": "#public",
+        "description": "Offentlig hashtag-kanal"
+      },
+      {
+        "channel": "#skanderborg",
+        "description": "Skanderborg"
+      },
+      {
+        "channel": "#soenderjylland",
+        "description": "Sønderjylland"
+      },
+      {
+        "channel": "#spejder",
+        "description": "Spejdere i Danmark"
+      },
+      {
+        "channel": "#taastrup",
+        "description": "Taastrup"
+      },
+      {
+        "channel": "#test",
+        "description": "Testkanal"
+      },
+      {
+        "channel": "#wardrive",
+        "description": "Wardriving/rækkeviddetest"
+      }
+    ]
+  }
+}
